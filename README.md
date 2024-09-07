@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iris Miao. I’m currently wrapping up my master’s degree at UCLA with a major in **Quantitative Economics (STEM program)**
 Before this, I earned my bachelor’s degree in **Economics & Finance** in China.
 
-I have approximately 3 years of professional experience in **data analysis**, during which I developed strong expertise in predictive modeling, machine learning, and data management.
+  I have approximately 3 years of professional experience in **Data Analysis**, during which I developed strong expertise in predictive modeling, machine learning, and data management.
 
 - 👀 I’m interested in searching intern/ entry level in DA/BA/FA. I’m proficient in Python, SQL and Tableau. 
 
