@@ -11,6 +11,7 @@ Before this, I earned my bachelor’s degree in **Economics & Finance** in China
   
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I ❤️ dogs & dogs ❤️ me!
+- love 🎭 （especially Musicals!）
 
 <!---
 IrisM13/IrisM13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
